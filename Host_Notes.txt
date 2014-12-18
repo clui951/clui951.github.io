@@ -1,0 +1,9 @@
+Website: http://www.ocf.berkeley.edu/~clui/
+
+FTP:
+sftp://ssh.ocf.berkeley.edu/
+clui / Just4OCF
+
+
+cd into public_html(chain):
+copy all files as is into this "folder"
